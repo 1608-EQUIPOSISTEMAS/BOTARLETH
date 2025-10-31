@@ -56,5 +56,6 @@
     "SAP HANA MM":["Sap Hana MM","SAP S/4 HANA MM"],
     "SAP HAHA PP":["SAP S/4 HANA PP","SAP PP"],
     "SAP HANA PM":["SAP HANA PM","SAP S/4 HANA PM"],
+    "SAP HANA HCM":["SAP HANA HCM","SAP S/4 HANA HCM"],
     "SAP HANA IN PRESENCIAL":["SAP HANA Integral | Presencial","SAP HANA Integral - Presencial"]
 }
